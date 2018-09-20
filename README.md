@@ -31,7 +31,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 How to deploy Angular Application to Heroku [Heroku deployment]
 (https://medium.com/@hellotunmbi/how-to-deploy-angular-application-to-heroku-1d56e09c5147)
 
-## Setup your angular application
+# Setup your angular application
 1. `ng new <project-name>` ==> Creating new project.
 2. `cd <project-name>` ==> change directory to project folder.
 3. `ng serve`  ==> To test the project locally.
